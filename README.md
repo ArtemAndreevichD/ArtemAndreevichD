@@ -16,7 +16,7 @@ C 2023 года я работаю в области анализа данных 
 
 ---
 
-(https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
 
 
