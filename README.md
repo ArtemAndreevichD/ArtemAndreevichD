@@ -13,6 +13,9 @@ C 2023 года я работаю в области анализа данных 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
+
+---
+
 (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
 
