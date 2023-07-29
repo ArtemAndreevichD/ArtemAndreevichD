@@ -17,11 +17,8 @@ C 2023 года я работаю в области анализа данных 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23EE4C2C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
-
-
-
-
-
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
 
 ---
 
