@@ -60,6 +60,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Артем1411/badges/large)
