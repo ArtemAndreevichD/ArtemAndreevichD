@@ -60,12 +60,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
+### 💻 Codewars:
 
-
-
-### Социальные сети
-
-<p align="left"> <a href="https://www.github.com/ArtemAndreevichD" target="_blank" rel="noreferrer"><img src="https://raw .githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
-
-
-
+![codewars](https://www.codewars.com/users/Артем1411/badges/large)
