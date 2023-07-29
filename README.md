@@ -16,6 +16,18 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
 
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Артем1411/badges/large)
+
+---
+
+### Contacts:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.opravinnikita@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-opravin-951605265/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opravinnikita)
 
 ---
 
@@ -23,9 +35,6 @@
 
 ![codewars](https://www.codewars.com/users/Артем1411/badges/large)
 
-### Contacts:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.opravinnikita@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-opravin-951605265/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/opravinnikita)
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=artemandreevichd)
